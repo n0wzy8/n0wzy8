@@ -1,36 +1,44 @@
-<!-- PROFIL BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=600&lines=Merhaba,+ben+Çağrı!;Yazılım+%2F+Network+%2F+Otomasyon;Projeler+geliştirmeyi+severim!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00f2ff&size=26&center=true&vCenter=true&width=700&lines=Merhaba,+Ben+Çağrı!;PasteHub+%26+ShopDelivery+Geliştiricisi;Basit+Gibi+Görünüp+İşi+Kolaylaştıran+Projeler+Severim">
 </div>
 
 ---
 
 ## 🌟 Hakkımda
 
-Ben Çağrı.  
-Kendi işimi kolaylaştıran sistemler ve pratik araçlar geliştirmeyi seven birisiyim.  
-Web projeleri, otomasyonlar, dosya transfer sistemleri gibi işler tam alanım.
+Ben **Çağrı**.  
+Web tabanlı araçlar, pratik çözümler ve günlük hayatı kolaylaştıran yazılımlar geliştirmeyi seviyorum.  
+Kendi projelerim üzerinde çalışıyorum ve zamanla büyüterek daha iyi hale getiriyorum.
 
 ---
 
 ## 🚀 Projelerim
 
-### 🔹 **pastehub.xyz**
-Kolay, hızlı ve temiz bir paste paylaşım platformu.
+<div align="center">
 
-### 🔹 **shopdelivery.xyz**
-Teslimat & yönetim sistemi — *yakında yayında.*
+### 🔹 <a href="https://pastehub.xyz" target="_blank">**pastehub.xyz**</a>
+Kolay, temiz ve hızlı bir paste paylaşım platformu.  
+Kodu gizli — tasarım sade, kullanım hızlı.
+
+---
+
+### 🔹 <a href="https://shopdelivery.xyz" target="_blank">**shopdelivery.xyz**</a>
+Teslimat ve yönetim sistemi.  
+**Yakında yayında** – dashboard + API + yönetim paneli.
+
+---
 
 ### 🔹 **WupSoftware**
-Üzerinde çalıştığım yazılım markası — *yakında.*
+Hazırlık aşamasında geliştirdiğim yazılım markası.
+
+</div>
 
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cloudflare,github,linux,html,css,js,fastapi,nodejs,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=py,cloudflare,github,linux,html,css,js,nodejs,fastapi,sqlite,mysql&theme=light" />
 </div>
 
 ---
@@ -39,8 +47,9 @@ Teslimat & yönetim sistemi — *yakında yayında.*
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=n0wzy8&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0wzy8&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=n0wzy8&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0wzy8&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -50,7 +59,7 @@ Teslimat & yönetim sistemi — *yakında yayında.*
 
 <div align="center">
 
-📩 **Mail:** `n0wzy8@gmail.com`  
+📧 **Mail:** `n0wzy8@gmail.com`  
 💬 **Discord:** `n0wzy8`
 
 </div>
