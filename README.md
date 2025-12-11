@@ -4,44 +4,37 @@
 
 ---
 
-## 🌟 Hakkımda
+## 👋 Hakkımda
 
-Ben **n0wzy8**.  
-Web tabanlı araçlar, pratik çözümler ve günlük hayatı kolaylaştıran sistemler geliştirmeyi seviyorum.  
-Kendi projelerimi büyütmeyi ve yeni şeyler eklemeyi seviyorum.
+Ben **n0wzy8**. Web tabanlı araçlar, pratik çözümler ve günlük hayatı kolaylaştıran sistemler geliştirmeyi seviyorum. Kendi projelerimi büyütmek ve yeni özellikler eklemek en büyük tutkum.
 
 ---
 
-## 🚀 Projelerim
+## 🚀 Öne Çıkan Projeler
 
-<div align="center">
+| Proje Adı | Açıklama | Durum |
+| :--- | :--- | :--- |
+| **[pastehub.xyz](https://pastehub.xyz)** | Kolay, temiz ve hızlı bir paste paylaşım platformu. | Yayında |
+| **[shopdelivery.xyz](https://shopdelivery.xyz)** | E-ticaret için teslimat ve yönetim sistemi (panel + API). | **Yakında Yayında** |
+| **WupSoftware** | Hazırlık aşamasında olan yazılım markam. | Geliştiriliyor |
 
-### 🔹 <a href="https://pastehub.xyz" target="_blank">**pastehub.xyz**</a>
-Pastebin çakması kral açıklamam yok
 ---
-### 🔹 <a href="https://shopdelivery.xyz" target="_blank">**shopdelivery.xyz**</a>
-Teslimat & yönetim sistemi.  
-**Yakında yayında** — panel + API + yönetim özellikleri.
----
-### 🔹 **WupSoftware**
-Hazırlık aşamasında olan yazılım markam.
-</div>
----
+
 ## 🛠️ Kullandığım Teknolojiler
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cloudflare,github,linux,html,css,js,nodejs,fastapi,sqlite,mysql&theme=light" />
 </div>
+
 ---
-## 📬 Bana Ulaşın
 
-<div align="center">
+## 📧 Bana Ulaşın
 
-📧 **Mail:** `n0wzy8@gmail.com`  
-💬 **Discord:** `n0wzy8`
+* **Mail:** `n0wzy8@gmail.com`
+* **Discord:** `n0wzy8`
 
-</div>
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
