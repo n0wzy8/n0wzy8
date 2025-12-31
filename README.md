@@ -4,9 +4,9 @@
 
 ---
 
-## ✨ n0wzy8 | Hızlı ve Pratik Çözümler
+## ✨ n0wzy8 |
 
-Merhaba! Ben **n0wzy8**. Geliştirici olarak, **az kodla çok işlev** sunan, günlük hayatı ve iş süreçlerini kolaylaştıran web tabanlı projeler geliştirmeye odaklanıyorum. Felsefem: Karmaşıklıktan kaçınarak, kullanıcıya doğrudan değer sunmaktır.
+Ben **n0wzy8**. Geliştirici olarak, **az kodla çok işlev** sunan, günlük hayatı ve iş süreçlerini kolaylaştıran web tabanlı projeler geliştirmeye odaklanıyorum. Felsefem: Karmaşıklıktan kaçınarak, kullanıcıya doğrudan değer sunmaktır.
 
 ---
 
@@ -14,19 +14,9 @@ Merhaba! Ben **n0wzy8**. Geliştirici olarak, **az kodla çok işlev** sunan, g�
 
 | Proje Adı | Açıklama | Durum |
 | :--- | :--- | :--- |
-| **[pastehub.xyz](https://pastehub.xyz)** | Temiz, hızlı ve reklamsız bir metin paylaşım (paste) platformu. | **Yayında** |
+| **[pastehub.xyz](https://pastehub.xyz)** | Temiz, hızlı ve reklamsız bir metin paylaşım (paste) platformu. | **Kapandı** |
 | **[shopdelivery.xyz](https://shopdelivery.xyz)** | E-ticaret için basit ve merkezi teslimat takip/yönetim sistemi. | **Yakında Yayında** |
 | **WupSoftware** | Tüm yazılım girişimlerimi birleştirecek olan markam. | Geliştirme Aşamasında |
-
----
-
-### 💻 Kullandığım Teknolojiler
-
-Geliştirme süreçlerimde sıkça kullandığım araçlar:
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cloudflare,github,linux,html,css,js,nodejs,fastapi,sqlite,mysql&theme=light" />
-</div>
 
 ---
 
